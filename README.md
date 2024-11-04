@@ -15,5 +15,5 @@ I'm a Frontend Developer focused on building modern, responsive websites, SaaS t
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ### 📫 Connect with me
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- GitHub: [yourusername](https://github.com/yourusername)
+- Twitter: [@AsumaCodes](https://twitter.com/AsumaCodes)
+- GitHub: [asumacodes](https://github.com/asumacodes)
