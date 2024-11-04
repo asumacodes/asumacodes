@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @asumacodes
+- 👀 I’m a Frontend Developer, building modern, responsive websites, SaaS tools, cross platform mobile applications. I am well versed with ReactJS, NextJS, React Native, Tailwind.
+- 🌱 I’m currently learning Problem Solving, System Design, Web3.
+- 📫 Reach out to me at asuma.codes@gmail.com
